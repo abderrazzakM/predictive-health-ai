@@ -1,67 +1,29 @@
-The Task
+Predictive Health AI 🌿
 
-Your objective is to understand and parepare the dataset for analysis, train a predictive model for classifiying ( distinguishing ) diseased patient (metabolic disorder) from a healthy individual and evaluate the model.
+A comprehensive, AI-powered system for predicting and analyzing individual health risks based on behavioral, demographic, and medical data. This project demonstrates a full-stack data science pipeline, from raw data preprocessing to interactive dashboards and deployable machine learning models.
 
-A complete list of analysis can be found below.
+✨ Project Objectives
 
-1.Load the data set.
+Predict the risk of cardiovascular conditions and high blood pressure using patient data.
 
-2.Exploratory analysis to better understand the data.
+Identify key risk factors contributing to poor physical and mental health.
 
-    2.1 Example : Properties of features, outliers, missingness, correlation bwtween features
-    2.2 How will you divide training and test data.
+Segment individuals based on lifestyle and medical history to target health interventions.
 
-3.How will you deal with missing data. Clearly explain your approach.
+Provide explainable predictions with SHAP values and feature importance analysis.
 
-4.Unsupervised analysis. Investigate trends and patters in data through some unsupervised learning approaches. 
-    4.1 Please also look for inherent sub group of patients
+Deliver interactive health dashboards to visualize patterns and personalize recommendations.
 
-5.Train a supervised predictive model (also known as classifier ). 
-    5.1 Train classifiers. You can train multiple classifiers and see which one works best.
-    5.2 Evaluate your model training performance.
-    5.3 Use and compare different performance evaluation metrics 
-    5.4 Use cross validation to evaluate variation in training perforamnce 
-    5.5 Is your model overfitting ?
+📊 Results & Insights
 
-6.Result interpretation 
-    6.1 Which is the most important feature ? 
-    6.2 What happens to your classification performance if you exclude the best feature and retrain your classifier ?
+Achieved high classification accuracy for predicting cardiovascular risk
 
-7.Prepare a presentation with your analysis summary and result
+Visualized feature importance using SHAP and correlated factors
+
+Built a dashboard that gives real-time, explainable health risk predictions
 
 
+🚀 Author
 
-The Data
-
-We have created four (4) different datasets: 
-
-    patients_01.csv 
-    patients_02.csv 
-    patients_03.csv 
-    patients_04.csv
-
- 
-
-Each file contains a different set of samples. The clinical features however remain identical across the data sets.  A description of the features can be found here :  Feature_Data_Description.txt 
-
-Each member of the group will work on different data sets. Among the group members, you can discuss analytical approaches, challenges and result interpretation. But it is important to remember that no two team members should work on the same dataset.
-
-The data has one target column, which indicates whether a sample (patient) has the disease or not. The feature data is a mixture of continuous numerical values and categorical values.
-
-
-
-Target Column
-
-Target column : dissease It has two labels :
-
-TRUE
-FALSE
-
-
-
-Feature Columns
-
-age gender bmi alcohol_misuse high_bp high_col chol_check history_smoking history_stroke history_heart_disease amount_activity fruits vegetables health_gen health_men health_phys walking_diff
-
-For a detailed description of each column can be found in the following file : Feature_Data_Description.txt
-
+Abderrazzak Moussaid
+Data Scientist | AI & Health Analytics Enthusiast
