@@ -1,4 +1,4 @@
-### Predictive Health AI 🌿
+# Predictive Health AI 🌿
 
 A comprehensive, AI-powered system for predicting and analyzing individual health risks based on behavioral, demographic, and medical data. This project demonstrates a full-stack data science pipeline, from raw data preprocessing to interactive dashboards and deployable machine learning models.
 
@@ -25,5 +25,5 @@ Built a dashboard that gives real-time, explainable health risk predictions
 
 ## 🚀 Author
 
-Abderrazzak Moussaid
+### Abderrazzak Moussaid
 Data Scientist | AI & Health Analytics Enthusiast
