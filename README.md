@@ -2,7 +2,7 @@
 
 A comprehensive, AI-powered system for predicting and analyzing individual health risks based on behavioral, demographic, and medical data. This project demonstrates a full-stack data science pipeline, from raw data preprocessing to interactive dashboards and deployable machine learning models.
 
-##✨ Project Objectives
+## ✨ Project Objectives
 
 Predict the risk of cardiovascular conditions and high blood pressure using patient data.
 
